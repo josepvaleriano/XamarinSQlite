@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{21803C0B-6C6D-47F9-9BDA-0135F2FACF8E}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinSQlite.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9523E26-DD68-46F6-A324-0BEFC0A610AD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinSQlite/PaginaCliente.xaml.cs">
+    <Files>
+      <File FileName="XamarinSQlite/App.xaml" Line="1" Column="1" />
+      <File FileName="XamarinSQlite/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinSQlite/IDatabaseConnection.cs" Line="7" Column="32" />
+      <File FileName="Droid/DbConnetion_Android.cs" Line="7" Column="30" />
+      <File FileName="iOS/DbConnection_iOS.cs" Line="8" Column="2" />
+      <File FileName="XamarinSQlite/Cliente.cs" Line="72" Column="2" />
+      <File FileName="XamarinSQlite/ClientesDataAcess.cs" Line="76" Column="33" />
+      <File FileName="XamarinSQlite/PaginaCliente.xaml" Line="1" Column="1" />
+      <File FileName="XamarinSQlite/PaginaCliente.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
